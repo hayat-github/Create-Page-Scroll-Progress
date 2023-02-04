@@ -1,0 +1,29 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 3000px;
+    /* min-width: 3000px; */
+    color: pink;
+}
+
+.scroller {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 5px;
+    background-color: rgba(3, 176, 234, 0.904);
+    z-index: 99999;
+}
+
+
+
+
+
+
+
+
